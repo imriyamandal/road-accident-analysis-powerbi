@@ -56,7 +56,7 @@ road-accident-analysis-powerbi/
 ![Overview](images/Overview.png)
 
 🔹 State-wise Analysis
-![State-wise Analysis](images/State_wise_Analysis.png)
+![State_wise Analysis](images/State_wise_Analysis.png)
 
 🔹 Road type Risk & Behaviour Analysis
 ![Road_type_deep_dive](images/Road_type_deep_dive)
