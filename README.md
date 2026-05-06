@@ -16,21 +16,24 @@ It focuses on identifying trends, risk factors, and safety patterns to support d
 
 
 📁 Project Structure
+
+```
 road-accident-analysis-powerbi/
 │
 ├── dashboard/
-│ └── road_accident_dashboard.pbix
+│   └── road_accident_dashboard.pbix
 │
 ├── data/
-│ └── india_roads_cleaned.xlsx
+│   └── india_roads_cleaned.xlsx
 │
 ├── images/
-│ ├── overview.png
-│ ├── safety.png
-│ ├── insights.png
+│   ├── overview.png
+│   ├── safety.png
+│   └── insights.png
 │
 ├── README.md
 └── LICENSE
+```
 
 
 📌 Key Features
