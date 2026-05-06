@@ -47,7 +47,7 @@ road-accident-analysis-powerbi/
 📷 Dashboard Preview
 
 ### 🔹 Overview
-![Overview](images/overview.png)
+![Overview](images/Overview.png)
 
 ### 🔹 Safety Analysis
 ![Safety](images/safety.png)
