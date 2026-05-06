@@ -46,16 +46,32 @@ road-accident-analysis-powerbi/
 
 📷 Dashboard Preview
 
-### 🔹 Overview
+🔹 Introduction
+![Introduction](Introduction.png)
+
+🔹 Structure
+![Structure](Dataset_Structure.png)
+
+🔹 Overview
 ![Overview](images/Overview.png)
 
-### 🔹 Safety Analysis
-![Safety](images/safety.png)
+🔹 State-wise Analysis
+![State-wise Analysis](images/State-wise_Analysis.png)
 
-### 🔹 Smart Insights
-![Insights](images/insights.png)
+🔹 Road type Risk & Behaviour Analysis
+![Road_type_deep_dive](images/Road_type_deep_dive)
 
-............
+🔹 Growth & Trend Analysis
+![Growth & Trend Analysis](images/Growth&Trend_Analysis.png)
+
+🔹 Road Density & Infrastructure Efficiency Analysis
+![Road Density & Efficiency](images/Road_Density&Efficiency.png)
+
+🔹 Accident & Safety Analysis
+![Safety](images/Accident&Safety.png)
+
+🔹 Smart Insights
+![Insights](images/Smart_Insights.png)
 
 
 🛠 Tools & Technologies
